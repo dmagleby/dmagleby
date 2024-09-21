@@ -1,0 +1,54 @@
+Champerty
+├── __init__.py
+├── asgi.py
+├── campaigns
+│   ├── __init__.py
+│   ├── admin.py
+│   ├── apps.py
+│   ├── models.py
+│   ├── tests.py
+│   └── views.py
+├── cases
+│   ├── __init__.py
+│   ├── admin.py
+│   ├── apps.py
+│   ├── models.py
+│   ├── tests.py
+│   └── views.py
+├── db.sqlite3
+├── landing.html
+├── main_app
+│   ├── __init__.py
+│   ├── admin.py
+│   ├── apps.py
+│   ├── models.py
+│   ├── tests.py
+│   └── views.py
+├── manage.py
+├── project_structure.txt
+├── requirements.txt
+├── settings.py
+├── static
+│   └── css
+│       └── style.css
+├── templates
+│   ├── base.html
+│   ├── landing.html
+│   ├── main_app
+│   │   └── contact_us.html
+│   └── users
+│       ├── login.html
+│       └── register.html
+├── urls.py
+├── users
+│   ├── __init__.py
+│   ├── admin.py
+│   ├── apps.py
+│   ├── forms.py
+│   ├── models.py
+│   ├── tests.py
+│   ├── urls.py
+│   └── views.py
+└── wsgi.py
+
+9 directories, 42 files
